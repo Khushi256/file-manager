@@ -58,8 +58,8 @@ Follow these steps to run the Smart File Organizer and Cleaner on your machine:
 You can either clone the repository using Git or download the `.zip` file.
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Khushi256/file-manager.git
+cd file-manager
 ```
 ### ✅ Step 2: Set the Configuration
 
